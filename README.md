@@ -6,7 +6,6 @@
  🧠 Brain Tumor Detection – Built an AI model to detect tumor types from MRI scans with confidence scores<br/>
  📰 Health News Scraper – Developed a Flask app that scrapes and stores latest health news daily using automation<br/>
 
-🔧 Tech stack: Python, Flutter, Dart, MySQL, SQLite, Flask, HTML/CSS, Tailwind, Bootstrap, XGBoost<br/>
 📫 How to reach me:[www.linkedin.com/in/ragini117](https://www.linkedin.com/in/ragini117/)
 
 ## 🌐 Socials:
